@@ -68,10 +68,11 @@ RTL realization!
 ![WhatsApp Image 2023-04-06 at 11 19 39 AM](https://user-images.githubusercontent.com/119404855/230283365-a9f441af-7c83-4125-b9d0-26f25be225a3.jpeg)
 
 ## Output:
+
 ![ex1 op1](https://user-images.githubusercontent.com/119404855/230282742-3e669e38-1028-41fa-afa1-98db20fed1ba.png)
 
-*/![ex1 op2](https://user-images.githubusercontent.com/119404855/230282302-4526787d-c1aa-4d9f-8e14-15ce0b8370f4.png)
-RTL
+[Screenshot (27)](https://user-images.githubusercontent.com/119404855/230289302-2b5382a9-3626-443c-a175-4b75a7f7484b.png)
+
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
