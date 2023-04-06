@@ -64,7 +64,9 @@ Developed by:A.Divya
 RegisterNumber: 212222230034
 
 Logic symbol & Truthtable
-RTL realization
+RTL realization!
+![WhatsApp Image 2023-04-06 at 11 19 39 AM](https://user-images.githubusercontent.com/119404855/230283365-a9f441af-7c83-4125-b9d0-26f25be225a3.jpeg)
+
 ## Output:
 ![ex1 op1](https://user-images.githubusercontent.com/119404855/230282742-3e669e38-1028-41fa-afa1-98db20fed1ba.png)
 
