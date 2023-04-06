@@ -71,7 +71,7 @@ RTL realization!
 
 ![ex1 op1](https://user-images.githubusercontent.com/119404855/230282742-3e669e38-1028-41fa-afa1-98db20fed1ba.png)
 
-[Screenshot (27)](https://user-images.githubusercontent.com/119404855/230289302-2b5382a9-3626-443c-a175-4b75a7f7484b.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/119404855/230289302-2b5382a9-3626-443c-a175-4b75a7f7484b.png)
 
 
 ## Result:
