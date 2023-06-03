@@ -63,16 +63,29 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 Developed by:A.Divya 
 RegisterNumber: 212222230034
 
+# Code
+module tt(a,b,y1,y2,y3,y4,y5,y6,y7);
+input a,b;
+output y1,y2,y3,y4,y5,y6,y7;
+and (y1,a,b);
+or (y2,a,b);
+not (y3,a);
+xor (y4,a,b);
+xnor (y5,a,b);
+nand (y6,a,b);
+nor (y7,a,b);
+endmodule
+
 ## Logic symbol & Truthtable
-RTL realization!
-![WhatsApp Image 2023-04-06 at 11 19 39 AM](https://user-images.githubusercontent.com/119404855/230283365-a9f441af-7c83-4125-b9d0-26f25be225a3.jpeg)
+![tt](https://github.com/Divya110205/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119404855/1b51d028-45ec-4b25-9139-d9e36260b617)
 
 ## Output:
 
-![ex1 op1](https://user-images.githubusercontent.com/119404855/230282742-3e669e38-1028-41fa-afa1-98db20fed1ba.png)
+## RTL
+![rtl](https://github.com/Divya110205/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119404855/848aa748-531f-4589-a773-8a512f3b4af2)
 
-![Screenshot (27)](https://user-images.githubusercontent.com/119404855/230289302-2b5382a9-3626-443c-a175-4b75a7f7484b.png)
-
+## Timing Diagram
+![td](https://github.com/Divya110205/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119404855/8e544475-1f5a-4b77-ac23-58a6b02c4779)
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
