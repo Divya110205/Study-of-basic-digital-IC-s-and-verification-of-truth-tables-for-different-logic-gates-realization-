@@ -63,9 +63,8 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 Developed by:A.Divya 
 RegisterNumber: 212222230034
 
-# Code
- module tt(a,b,y1,y2,y3,y4,y5,y6,y7);
- input a,b;
+module tt(a,b,y1,y2,y3,y4,y5,y6,y7);
+input a,b;
 output y1,y2,y3,y4,y5,y6,y7;
 and (y1,a,b);
 or (y2,a,b);
